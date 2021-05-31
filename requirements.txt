@@ -1,0 +1,6 @@
+uvicorn
+asyncio 
+python-multipart 
+aiofiles 
+pymongo 
+Pillow
